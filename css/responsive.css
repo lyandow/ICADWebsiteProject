@@ -1,0 +1,69 @@
+@media screen and (min-width: 480px) {
+  
+  header
+  {
+    font-size: 1.5em;
+  }
+  
+  #procedure
+  {
+    font-size: 1.5em;
+  }
+  
+  #schematics
+  {
+    font-size: 1.5em;
+  }
+  
+  #code
+  {
+    font-size: 1.5em;
+  }
+  
+  #breakdown
+  {
+    font-size: 1.5em;
+  }
+}
+  @media screen and (max-width: 480px) {
+  article
+  {
+      border: none;
+  }
+   
+  body
+   {
+      background-color: #e8e9eb;
+   }
+  }
+
+@media screen and (min-width: 660px) {
+  
+  header
+  {
+    font-size: 1.15em;
+  }
+  
+  #procedure
+  {
+    font-size: 1.15em;
+  }
+  
+  #schematics
+  {
+    font-size: 1.15em;
+  }
+  
+  #code
+  {
+    font-size: 1.15em;
+  }
+  
+  #breakdown
+  {
+    font-size: 1.15em;
+  }
+}
+  
+  
+  

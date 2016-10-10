@@ -1,0 +1,144 @@
+body
+{
+  background-color: #313638;
+}
+
+a
+{
+  text-decoration: none;
+  color: currentColor;
+}
+
+header
+{
+  border-radius: 8%;
+  border-top-style: ridge;
+  border-left-style: ridge;
+  border-right-style: groove;
+  border-bottom-style: groove;
+  border-width: 10px;
+  border-color: #ef6461;
+  font-style: normal;
+  font-weight: normal;
+  text-align: center;
+  margin: 5%;
+  background-color: #bbb;
+}
+
+section
+{
+  border-radius: 10%;
+  border-top-style: ridge;
+  border-left-style: ridge;
+  border-right-style: groove;
+  border-bottom-style: groove;
+  border-width: 10px;
+  border-color: #ef6461;
+  text-align: center;
+  background-color: #bbb;
+  margin: 5%;
+}
+
+article
+{
+  border-style: ridge;
+  border-width: 10px;
+  border-color: #ef6461;
+  text-align: center;
+  background-color: #e8e9eb;
+  margin: 5%;
+  color: #313638;
+}
+
+p
+{
+  text-align: center;
+  padding: 5px;
+}
+
+ul
+{
+  list-style: none;
+  padding: 0;
+}
+
+ol
+{
+  padding: 0;
+}
+li
+{
+  margin: 0 10%;
+  padding: 0;
+  list-style-position: inside;
+}
+
+h2
+{
+  border-radius: 5%;
+  border-top-style: ridge;
+  border-left-style: ridge;
+  border-right-style: groove;
+  border-bottom-style: groove;
+  border-width: 10px;
+  border-color: #ef6461;
+  background-color: #e8e9eb;
+  margin: 10px 5%;
+  text-align: center;
+}
+
+img
+{
+  max-width: 100%;
+}
+
+#main-process
+{
+  max-width: 95%;
+  margin: 0 auto;
+}
+
+#schematics
+{
+   max-width: 95%;
+}
+
+#photos
+{
+  overflow: auto;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#photos li
+{
+  display: block;
+  float: left;
+  width: 45%;
+  margin: 2.5%;
+}
+
+#introduction
+{
+  border-radius: 5%;
+  border-top-style: ridge;
+  border-left-style: ridge;
+  border-right-style: groove;
+  border-bottom-style: groove;
+  border-width: 10px;
+  border-color: #ef6461;
+  background-color: #bbb;
+  margin: 5%;
+}
+
+.code
+{
+  text-align: left;
+}
+
+#author
+{
+   border-style: none;
+   background-color: #bbb;
+}
